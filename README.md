@@ -6,7 +6,7 @@ using this, i run the name and status commands to get the players in the current
 `setup`
 
 install the requirements: `pip install -r requirements.txt`
-add the launch option `-netconport 2121 to csgo
+add the launch option `-netconport 2121 to csgo`
 
 `usage`
 run the python script
